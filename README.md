@@ -1,7 +1,7 @@
 # BetterManual
 
-This app is intended to ease shooting in manual and aperture priority mode with (legacy) prime lenses on the A6000 camera. It uses the [OpenMemories Framework](https://github.com/ma1co/OpenMemories-Framework).
-**While the app may work on other cameras, it was written specifically for use with the A6000.**
+This app is intended to ease shooting in manual and aperture priority mode with (legacy) prime lenses on the ILCE-7M2 camera. It uses the [OpenMemories Framework](https://github.com/ma1co/OpenMemories-Framework).
+**While the app may work on other cameras, it was written specifically for use with the ILCE-7M2.**
 
 ## Installation ##
 
